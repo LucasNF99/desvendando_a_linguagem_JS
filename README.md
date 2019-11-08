@@ -1,1 +1,1 @@
-# Desvendando a linguagen JS
+# Desvendando a linguagem JS
